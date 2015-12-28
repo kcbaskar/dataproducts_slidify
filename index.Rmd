@@ -16,11 +16,9 @@ knit        : slidify::knit2slides
 
 This presentation is part of the course project for the Coursera Developing Data Products course. This has two parts. 1) create a shiny application, deploy it in Shiny server. 2) use Slidify or RStudio presenter to prepare a reproducible pitch presentation about the application. This presentation addresses the second part of the course project
 
-The Application developed as part of the first project of this assignment can be found at:
-https://kcbaskar.shinyapps.io/Baskar
+The Application developed as part of the first project of this assignment can be found at: https://kcbaskar.shinyapps.io/Baskar
 
-Source code for ui.R and server.R are found on the GitHub:
-xxx
+Source code for ui.R and server.R are found on the GitHub: https://github.com/kcbaskar/data_product
 
 
 --- 
