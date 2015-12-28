@@ -62,4 +62,3 @@ hist(randomVec, col="blue")
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
 
 
-
