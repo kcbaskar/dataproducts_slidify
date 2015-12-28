@@ -60,4 +60,3 @@ hist(randomVec, col="blue")
 ```
 
 
-
